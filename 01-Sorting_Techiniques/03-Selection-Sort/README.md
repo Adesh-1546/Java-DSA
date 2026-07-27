@@ -90,7 +90,7 @@ Final Sorted Array: [9, 13, 20, 24, 46, 52]
 
 ## 💻 Code Structure
 
-* `Selection_Sort.java` → Implementation
+* `Selection.java` → Implementation
 
 ---
 
